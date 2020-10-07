@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./contact.component.css']
 })
 export class ContactComponent implements OnInit {
-  myloc:string="assets/images/location.png";
+  myloc:string="https://tse1.mm.bing.net/th?id=OIP.eSHch63QEHaGGTyk5P9ZOQHaD4&pid=Api&P=0&w=318&h=168";
   constructor() { }
 
   ngOnInit(): void {

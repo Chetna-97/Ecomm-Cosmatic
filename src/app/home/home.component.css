@@ -1,6 +1,5 @@
-/* background-image: url(images2/img1.jpg); */
 .imgbg{ 
-    background-image: url(http://getwallpapers.com/wallpaper/full/c/f/3/501883.jpg);
+   /* background-image: url(http://getwallpapers.com/wallpaper/full/c/f/3/501883.jpg); */
    background-size: 100% 100%;
    background-attachment: fixed ; 
    width: 100%;
@@ -9,8 +8,7 @@
  .marq{
    margin-top: 170px;
    color:rgb(43, 3, 23);
-   /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-   font-family: 'coiny',cursive;;
+   font-family: 'coiny',cursive;
  }
  .note{
   text-align: center;
