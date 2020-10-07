@@ -1,0 +1,45 @@
+.boxing{
+    background-color: black;
+   
+  }
+  .row-div{
+    height: 5px;
+    width: 70px;
+    background-color: white;
+    align-content: center;
+    margin-left: 44%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  .visit{
+    font-family: monospace;
+    font-size:40px;
+    cursor: pointer;
+  }
+  a{
+   cursor: pointer;
+  }
+ 
+  .input-type{
+    float: left;
+    background-color: black;
+    margin-bottom: 5px;
+    margin-left: 15px;
+ 
+  }
+ .inputcontainer{
+  height: 120px;
+  width: 100%;
+ }
+  .msg{
+    height: 100px;
+    width: 300px;
+    background-color: black;
+    float: right;
+    margin-right:15px;
+    margin-left: 30%;
+    text-align: top;
+  }
+  .btn-sub{
+    width: 100%;
+  }

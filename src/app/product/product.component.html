@@ -1,0 +1,119 @@
+<div class="container-fluid">
+    <div class="row">
+      <div *ngFor="let image of data" class="box col-lg-2 col-md-2 col-sm-2" >
+        <img class="col-lg-12 col-md-12 col-sm-12" [src]="image.imageUrl" id="mg">
+        <div class="remove_link">
+          <a (click)="onSelect(image)">
+           <!-- [routerLink]="'detail/'+image.id" -->
+            <i class="fa fa-eye icon_size16 "></i>
+          </a>
+      </div>
+        <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">{{ image.name }}</div>
+          <div id="Rs">{{ image.price| currency:'CAD':'symbol-narrow':'.2' }}</div></b>
+            <div id="reviews"><i class="fa fa-star"></i>
+              <i class="fa fa-star"></i><i class="fa fa-star"></i>
+              <i class="fa fa-star-half-full"></i></div>
+  </div>
+</div>
+</div>
+
+
+  
+  <!-- <div class="box col-lg-2 col-md-2 col-sm-2">
+    <img class="col-lg-12 col-md-12 col-sm-12" [src]=myimage2 id="mg">
+    <div class="remove_link">
+      <a routerLink="detail">
+        <i class="fa fa-eye icon_size16 "></i>
+      </a>
+  </div>
+    <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">Nail Polics</div>
+        <div id="Rs">2000 RS</div></b>
+        <div id="reviews"><i class="fa fa-star"></i>
+          <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-full"></i></div>
+</div> 
+
+
+<div class="box col-lg-2 col-md-2 col-sm-2">
+  <img class="col-lg-12 col-md-12 col-sm-12" [src]=myimage3 id="mg">
+  <div class="remove_link">
+    <a routerLink="detail">
+      <i class="fa fa-eye icon_size16 "></i>
+    </a>
+</div>
+  <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">Lipstic</div>
+      <div id="Rs">2000 RS</div></b>
+      <div id="reviews"><i class="fa fa-star"></i>
+        <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-full"></i></div>
+</div>
+
+<div class="box col-lg-2 col-md-2 col-sm-2">
+  <img class="col-lg-12 col-md-12 col-sm-12" [src]=myimage4 id="mg">
+  <div class="remove_link">
+    <a routerLink="detail">
+      <i class="fa fa-eye icon_size16 "></i>
+    </a>
+</div>
+  <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">EyeLiner</div>
+      <div id="Rs">2000 RS</div></b>
+      <div id="reviews"><i class="fa fa-star"></i>
+        <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-full"></i></div>
+</div>
+
+<div class="box col-lg-2 col-md-2 col-sm-2">
+  <img class="col-lg-12 col-md-12 col-sm-12" [src]=myimage5 id="mg">
+  <div class="remove_link">
+    <a routerLink="detail">
+      <i class="fa fa-eye icon_size16 "></i>
+    </a>
+</div>
+  <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">Compact</div>
+      <div id="Rs">2000 RS</div></b>
+      <div id="reviews"><i class="fa fa-star"></i>
+        <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-full"></i></div>
+</div>
+
+
+<div class="box col-lg-2 col-md-2 col-sm-2">
+  <img class="col-lg-12 col-md-12 col-sm-12" [src]=myimage6 id="mg">
+  <div class="remove_link">
+    <a routerLink="detail">
+      <i class="fa fa-eye icon_size16 "></i>
+    </a>
+</div>
+  <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">Kajal</div>
+      <div id="Rs">2000 RS</div></b>
+      <div id="reviews"><i class="fa fa-star"></i>
+        <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-full"></i></div>
+</div>
+
+<div class="box col-lg-2 col-md-2 col-sm-2">
+  <img class="col-lg-12 col-md-12 col-sm-12" [src]=myimage7 id="mg">
+  <div class="remove_link">
+    <a routerLink="detail">
+      <i class="fa fa-eye icon_size16 "></i>
+    </a>
+</div>
+  <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">MakupKit</div>
+      <div id="Rs">2000 RS</div></b>
+      <div id="reviews"><i class="fa fa-star"></i>
+        <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-full"></i></div>
+</div>
+
+<div class="box col-lg-2 col-md-2 col-sm-2">
+        <img class="col-lg-12 col-md-12 col-sm-12" [src]=myimage8 id="mg">
+        <div class="remove_link">
+          <a routerLink="detail">
+            <i class="fa fa-eye icon_size16 "></i>
+          </a>
+      </div>
+        <b><div class="col-lg-12 col-md-12 col-sm-12" id="name">NightCream</div>
+            <div id="Rs">2000 RS</div></b>
+            <div id="reviews"><i class="fa fa-star"></i>
+              <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-full"></i></div>
+  </div>
+        </div> -->
+       
+
+
+
+  

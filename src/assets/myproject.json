@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Oriflame Eyeliner",
+    "description": "High-impact color. Waterproof, smudge-proof, lacquer-like sheen.",
+    "price": 670.10,
+    "imageUrl": "http://vanitynoapologies.com/wp-content/uploads/2014/11/Oriflame-The-One-Eyeliner-Stylo-Black-and-Blue-Reviews-Swatches-blog.jpg",
+    "quantity": 5681,
+    "model":"1111"
+  },
+  {
+    "id":2 ,
+    "name": "lakme waterproof kajal",
+    "description": "Smudge proof and convenient twist- up format for deep stroke,Water proof, lasts up to 22 hrs,It is dermatologically tested and is safe for the eyes,Easy twist up format,Can be used water line and eye lids",
+    "price": 730.00,
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.GSL7dmhx9TwqZS1Gul26lgHaIV&pid=Api&P=0&w=300&h=300",
+    "quantity": 5682,
+    "model":"2222"
+  },
+  {
+    "id": 3,
+    "name": "Coloressencs compact powder ",
+    "description": "Specially micronized powder particles blended together for an ultra fine look and velvet appearance to your skin. It is good for long wear Make Up and its micro fine powder evens skin tone for a sheer, natural look.",
+    "price": 160.00,
+    "imageUrl": "https://www.24seven.com.np/images/products/original/1574051766.png",
+    "quantity": 5683,
+    "model":"3333"
+  },
+  {
+    "id": 4,
+    "name": "Olay Total Effect 7 In 1 Anti Ageing Night Skin Cream  (20 g)",
+    "description": "Skin care doesn't just stop with you applying face cream during the day. If you want a glowing, smooth skin, then what you need this nightly moisturiser from Olay.",
+    "price": 347,
+    "imageUrl": "https://i.ebayimg.com/images/g/~-kAAOSwEpZceQ3G/s-l300.jpg",
+    "quantity": 5684,
+    "model":"4444"
+  },
+  {
+    "id": 5,
+    "name": "Lakme 9 to 5 Eye Color Quartet Eye Shadow 7 g  (Royal Peacock)",
+    "description": "Your perfect office eye stylist is here! The versatile colors in the Lakme 9 To 5Eye Quartet and the high-intensity powders give your eyes a defined finish. The radiant color and shimmer particles shape and highlight your eyes to give you that professional edge. Use the lighter shades for office wear and darker shades for your night look. The special applicator makes it very easy to do your own eyes and you can mix the shades to create new looks everday! Buy the Lakme 9 to 5 Eye Quartet, right away! Lakme 9 to 5 Eye Quartet has a versatile palette of eye shadows developed specially for work. Lakme 9 to 5 Eye Quartet is packed with key features like: High intensity powders with delicate hints of shimmer and matte, Smooth and silken texture, 4 eye shadows in 1 palette, Comes with a sponge applicator, Available in 6 palettes. How to apply: Using the sponge applicator, sweep the shadow from the palette and then apply it on the crease of your eyelid. Pro-Tip:Once the tip gets a little blunt its great for experimenting with bold, smokey looks. For finer strokes sharpen with Lakm Dual Sharpener. Lakme 9 to 5 Eye Quartet goes well with 9 to 5 Weightless Mousse Foundation as base, 9 to 5 Matte Lipsticks and Eyeconic kajal for an enhanced look.",
+    "price": 583,
+    "imageUrl": "https://i.ebayimg.com/images/g/U7EAAOSw2k5dqcVN/s-l400.jpg",
+    "quantity": 5685,
+    "model":"5555"
+  },
+  {
+    "id": 6,
+    "name": "Himalaya Purifying Neem Face Wash  (100 ml)",
+    "description": "Face Wash is formulated with soothing neem oil and turmeric",
+    "price": 112,
+    "imageUrl": "https://n1.sdlcdn.com/imgs/a/l/p/Himalaya-Herbals-Purifying-Neem-Face-SDL462458972-1-9df29.jpg",
+    "quantity": 5686,
+    "model":"6666"
+  },
+  {
+    "id": 7,
+    "name": "Ponds Moisturizing Lotion triple vitamin 300ml Pack of 3 = 900ml (900 ml)3",
+    "description": "Dont let winter be too harsh on your skin. Use Pondâ??s Moisturizing body lotion to keep your skin soft and smooth for a long period of time. Infused with Vitamin B3, E, and C, this lotion deeply moisturize your skin, leaving it soft and nourished. For best results, use this lotion daily after shower. Triple Vitamin Moisturizing Lotion With Vitamin - B3, E, and C, this body lotion provides 3X moisturization to your skin to give you soft and smooth skin. Nourishment It nourishes your skin from within to reveal an amazingly soft skin. Prevents Dry and Rough Skin This lotion works like magic on dry and rough skin during winter.",
+    "price": 699,
+    "imageUrl": "https://i.ebayimg.com/images/g/rCEAAOSwUF1c~xzA/s-l640.jpg",
+    "quantity": 5687,
+    "model":"7777"
+  },
+  {
+    "id": 8,
+    "name": "Ponds Moisturising Cold Cream 100ML  (100 ml)",
+    "description": "Skin Type:   All Skin Types, Application Area:Body,Applied For (Face & Body):Moisturization & Nourishment",
+    "price": 114,
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41L5zWHCWaL._SY300_QL70_.jpg",
+    "quantity": 5688,
+    "model":"8888"
+  }
+]
+      

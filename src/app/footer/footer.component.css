@@ -1,0 +1,21 @@
+section{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+}
+.category{
+    background-color: black;
+}
+.social i{
+    padding: 10px;
+    background-color:  rgba(0,0,0, 0.9);;
+    font-size: 20px;
+    margin: 20px;
+    color: white;
+}
+h4{
+    font-style: italic;
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+} 

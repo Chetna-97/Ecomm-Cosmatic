@@ -1,0 +1,129 @@
+/* background-image: url(images2/img1.jpg); */
+.imgbg{ 
+    background-image: url(http://getwallpapers.com/wallpaper/full/c/f/3/501883.jpg);
+   background-size: 100% 100%;
+   background-attachment: fixed ; 
+   width: 100%;
+   height: 620px;
+ }
+ .marq{
+   margin-top: 170px;
+   color:rgb(43, 3, 23);
+   /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+   font-family: 'coiny',cursive;;
+ }
+ .note{
+  text-align: center;
+ }
+ .social{
+   width: 60px;
+   margin: 2% 30px;
+   text-align: center;
+   position: fixed;
+   float: left;
+ }
+ .social i{
+   padding: 10px;
+   background-color:  rgba(0,0,0, 0.9);;
+   font-size: 20px;
+   margin: 10px;
+   color: white;
+   
+ } 
+ .navbar{
+   background-color:rgba(0,0,0, 0.9);
+ }
+ .nav-link{
+   font-size: 17px;
+   color: white;
+ }
+
+ .text-img h1{
+   margin-top: 10%;
+ }
+
+ .nav-item a::after{
+   content: '';
+   display: block;
+   width: 0;
+   height: 2px;
+   background-color: #FFF;
+   transition: width .3s;
+ }
+
+ .nav-item a:hover::after{
+   width: 100%;
+   transition: width .3s;
+ }
+
+ .nav-item a:hover{
+   color: white;
+ }
+
+ .box{
+   position: relative;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+   cursor: pointer;
+ }
+
+ #box{
+   margin-top: 15px;
+   margin-bottom: 15px;
+   border-top: 1px solid grey;
+   border-bottom: 1px solid grey;
+   text-align: center;
+   width: 300px; 
+   height: 300px; 
+   background-color:white; 
+   float: left;
+ }
+
+ #mg{
+     height: 100%;
+     width: 100%;
+ }
+
+ .search-box
+ {
+     position:absolute;
+     margin-top:1%;
+     left:80%;
+     transform: translate(-50%,-50%);
+     background:#2f3640;
+     height: 40px;
+     border-radius: 40px;
+     padding: 1px;
+ }
+  .search-box:hover > .search-txt 
+ {
+     width:240px;
+     padding:6px 0x;
+ }
+ .search-btn
+ {
+     color: #e84118;
+     width: 40px;
+     height:40px;
+     float: left;
+     border-radius: 50%;
+     background:#2f3640;
+     display: flex;
+     justify-content: center;
+     align-items: center;    
+ }
+ .search-txt
+ {
+     border: none;
+     background: none;
+     outline: none;
+     float: right;
+     padding: 0;
+     color: white;
+     font-size: 17px;
+     transition: 0.4s;
+     line-height: 40px;
+     width:0px;
+ }
+ 
