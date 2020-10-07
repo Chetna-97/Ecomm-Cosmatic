@@ -46,7 +46,7 @@ const routes:Routes=[
     HomeComponent,
   ProductComponent,
    DetailComponent,
-   ContactComponent
+  ContactComponent
   ],
   imports: [
     BrowserModule,
